@@ -3881,3 +3881,8 @@ input, select, textarea {
 		}
 
 	}
+	/* Adjustments */
+	.warning{
+		color: #1abc9c;
+		font-weight: bolder;
+	}
