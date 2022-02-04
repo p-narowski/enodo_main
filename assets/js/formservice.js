@@ -14,7 +14,7 @@ function validateForm() {
   ) {
     alert(WARNING_MESSAGE);
   } else {
-    // submitForm();
+    submitForm();
     alert(SUCCESS_MESSAGE)
     location.reload();
   }

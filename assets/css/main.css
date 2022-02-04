@@ -3891,13 +3891,10 @@ input, select, textarea {
 		background-color: white;
 		text-align: center;
 		padding-bottom: 10px;
-		/* border: 3px solid #1abc9c; */
 		position: fixed;
 		z-index: 1;
 		opacity: 80%;
 	  }
 	  .hidden {
 		display: none;
-		/* position: absolute;
-		bottom: 0px; */
 	  }
